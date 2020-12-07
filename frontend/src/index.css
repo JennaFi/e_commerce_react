@@ -133,9 +133,28 @@ a.brand {
 .col-3 {
   flex: 1 1 10rem;
 }
+.min-30 {
+  min-width: 30rem;
+} {
+
+}
+.cart-price {
+  flex: 1 1 5rem;
+  
+}
+.qty-cart{
+  flex: 1 1 5rem;
+  align-items: initial;
+  
+
+}
 /* Image */
 img {
   border-radius: 0.5rem;
+}
+img.small {
+  max-width: 5rem;
+  width: 100%;
 }
 img.medium {
   max-width: 29rem;

@@ -42,7 +42,7 @@ const data = {
             category: 'Suits',
             image: '/images/suit.jpg',
             price: 12520,
-            countInStock: 5,
+            countInStock: 50,
             brand: 'Prada',
             rating: 5,
             numReviews: 20,
