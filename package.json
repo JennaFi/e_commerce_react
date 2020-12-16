@@ -18,14 +18,19 @@
   },
   "homepage": "https://github.com/JennaFi/e_commerce_react#readme",
   "dependencies": {
+    "@react-native-community/cli": "^4.13.1",
     "bcryptjs": "^2.4.3",
+    "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "express-async-handler": "^1.1.4",
-    "mongoose": "^5.11.5"
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.11.5",
+    "react": "^17.0.1"
   },
   "devDependencies": {
     "eslint": "^7.14.0",
     "eslint-plugin-react": "^7.21.5",
     "nodemon": "^2.0.6"
+    
   }
 }
