@@ -25,9 +25,10 @@
 
 (module.exports = {
   root: true,
+
   //extends: '@react-native-community',
 }),
   {
-    extends: ["@imaginary-cloud/react"],
+    extends: ['@imaginary-cloud/react'],
     // more configuration options here!
   };
